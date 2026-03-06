@@ -1,28 +1,19 @@
-# 💫 About Me:
-👋 Hi, I’m Priel. I'm a Computer Science student specializing in the development of data-intensive backend systems and applied AI.\
- I am passionate about the entire software lifecycle, from architecting robust, object-oriented systems to deploying scalable, real-world applications.
+#  About Me:
+ Hi, I'm Priel — a Computer Science student at Afeka College of Engineering who enjoys architecting efficient, scalable software from the ground up.
 
+My focus is on **backend development**, with solid experience in **Java**, **Python**, and **C#**, building data-driven applications with **FastAPI** and **SQL**. Lately I've been diving deeper into **image processing** and exploring what you can do when computer vision meets backend systems.
+
+I care about writing clean, well-structured code and designing systems that actually hold up under real-world conditions.
 <br>
 
-🎯 **I’m currently focused on:**<br>
-Building a full-stack **Receipt Intelligence Platform** from the ground up. The project transforms physical receipts into structured, actionable data using a sophisticated computer vision pipeline. Key features include:
-* A high-performance backend API built with **Python** and **FastAPI**.
-* An **OpenCV** and **Tesseract OCR** engine for data extraction, including line-item parsing.
-* A **PostgreSQL** database for storing structured receipt data and user information.
-* A business intelligence service to provide automated spending analytics and insights.
-* The entire application is containerized with **Docker** for robust and scalable deployment.
-
-<br>
-
-🌱 **My core areas of interest are:**
+ **My core areas of interest are:**
 * **Backend Architecture:** Designing and building scalable, high-performance APIs and backend systems.
 * **Computer Vision & AI:** Developing end-to-end pipelines to extract meaningful insights from complex, real-world data.
 * **Database Systems:** Focusing on efficient data modeling and management for both relational (SQL) and non-relational (NoSQL) databases.
 * **Software Engineering Practices:** Applying principles of system design, automated testing, and clean code to build robust and maintainable applications.
-
 <br>
 
-🤝 **I’m looking to collaborate on:**<br>
+🤝 **I'm looking to collaborate on:**<br>
 Challenging projects in backend development, data engineering, or applied AI. I am particularly interested in contributing to open-source tools that provide tangible, real-world value.
 
 
