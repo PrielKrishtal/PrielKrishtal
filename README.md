@@ -16,7 +16,7 @@ with a focus on production quality: FSMs, idempotency, structured logging, and f
 LLM classification via Groq/Llama 3.3 70B with Pydantic-enforced boundaries. RAG over 10-Q filings using sentence-transformers + ChromaDB. Telegram Q&A interface.  
 `Python` `FastAPI` `Redis Streams` `PostgreSQL` `ChromaDB` `Groq API` `Docker Compose`
 
-### [ClarityScan](https://github.com/PrielKrishtal/ClarityScan) — AI-Powered Receipt Management SaaS
+### [ClarityScan](https://github.com/PrielKrishtal/clarity-scan) — AI-Powered Receipt Management SaaS
 Non-blocking OCR pipeline (Google Cloud Vision + FastAPI BackgroundTasks) with typed FSM enforced at the DB layer.  
 OpenCV preprocessing (Gaussian blur → Otsu → 4-point homography) — ~70% accuracy boost on degraded Hebrew/English receipts.  
 `Python` `FastAPI` `React 18` `PostgreSQL` `OpenCV` `Google Cloud Vision` `Docker` `GitHub Actions`
