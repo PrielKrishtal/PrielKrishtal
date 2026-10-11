@@ -55,6 +55,7 @@ OpenCV preprocessing (Gaussian blur → Otsu → 4-point homography) — ~70% ac
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS_(EC2·S3·Lambda)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/Docker_Compose-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
